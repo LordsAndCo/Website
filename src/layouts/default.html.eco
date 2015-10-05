@@ -43,7 +43,9 @@
         <nav class="container top-bar" data-topbar>
             <ul class="title-area">
               <li class="name">
-                <h1><a href="/"> <%= @site.title %></a></h1>
+                <a href="/">
+                  <img src="/images/logo.png"/>
+                </a>
               </li>
               <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
             </ul>
@@ -78,7 +80,6 @@
       <div role="main">
         <%- @content %>
       </div>
-      <div id="root_footer"></div>
     </div>
     <footer id="footer">
       <div class="row">
@@ -105,7 +106,6 @@
         </div>
       </div>
     </footer>
-    <span>UNID, 71-75 Shelton Street, Covent Garden, London WC2H 9JQ, UK</span>
     <%- @getBlock('scripts').add(@site.scripts).toHTML() %>
     <%- @getAddThisBlock('vert16','right:10px;bottom:0px;background:transparent', false) %>
   </body>

@@ -1,40 +1,14 @@
 <div class="slider home-slider">
 	<div class="owl-carousel">
 		<div class="row">
-		  <div class="columns large-6">
-				<h1>World Women’s Health &amp; Development Forum</h1>
-				<p>The Royal Academy of Science International Trust assigned UNID to organize and manage the World Women’s 	Health &amp; Development Forum. The First Forum will be held in the United Nations Office in Geneva from 19 to 21 November 2014.</p>
+		  <div class="columns large-8">
+				<h1>We’ll Buy Any House, Any Condition</h1>
+				<p>We buy any house anywhere in the UK. Get a free instant online cash offer today! London Property Buyers can help if you need to sell your house quickly in days, not months. We have cash funds waiting to buy your home. Sell your property in a matter of days, not months. Get a sale agreed today with the UK’s best quick sale company!</p>
 			</div>
-			<div class="columns large-6 img-column">
-				<img class="figure" src="/images/royal_academy_of_science.jpg" />
-			</div>
-		</div>
-		<div class="row">
-			<div class="columns large-6">
-				<h1>UNID Celebrating the International Youth Day</h1>
-				<p>Join us for a Twitter Chat on August 12th 2014 at 13.00 GMT with UNID CEO on challenges faced by young people. To learn more, please contact us</p>
-			</div>
-			<div class="columns large-6 img-column">
-				<img class="figure" src="/images/international_youth_day_2014.png" />
+			<div class="columns large-4 img-column">
+				<img class="figure" src="/images/slider/mansion-abandoned-house.jpg" />
 			</div>
 		</div>
-		<div class="row">
-			<div class="columns large-6">
-				<h1>Women &amp; Society International Club</h1>
-				<p>In collaboration with RASIT Women in Science International League, UNID is launching Women &amp; Society 	International Club.</p>
-			</div>
-			<div class="columns large-6 img-column">
-				<img class="figure" src="/images/women_in_science.png" />
-			</div>
-		</div>
-		<div class="row">
-			<div class="columns large-6">
-				<h1>Science Café Program in Turkey</h1>
-				<p>Under the theme <i>“Towards Knowledge Societies”</i>, The Royal Academy of Science International Trust assigned UNID to launch and manage the “Science Café” Program in Turkey. The Program aims to popularize science and its fundamental 	role in development.</p>
-			</div>
-			<div class="columns large-6 img-column">
-				<img class="figure" src="/images/banner/banner0.jpg" />
-			</div>
 		</div>
 	</div>
 </div>

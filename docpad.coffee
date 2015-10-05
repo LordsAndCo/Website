@@ -12,26 +12,25 @@ docpadConfig = {
 		# Specify some site properties
 		site:
 			# The production url of our website
-			url: "http://unid.khine.net/"
+			url: "http://lordsandco.co.uk"
 
 			# Here are some old site urls that you would like to redirect from
 			oldUrls: [
-				"www.unidi.net",
-				"unidi.herokuapp.com"
+				"http://www.lordsandco.co.uk"
 			]
 
 			# The default title of our website
-			title: "Unid"
-			company: "Unid."
+			title: "Lords & Co."
+			company: "Lords & Co."
 
 			# The website description (for SEO)
 			description: """
-				UNID, based in United Kingdom, aims to stimulate sustainable development and economic opportunities through innovation, science, entrepreneurship, Education, Research and Development, and health.
+				Lords & Co. - Letting Agents for Norbury, Streatham, Thornton Heath, West Croydon, East Croydon, South Croydon, Tooting, West Norwood, Battersea, Brixton
 				"""
 
 			# The website keywords (for SEO) separated by commas
 			keywords: """
-				place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website
+				Letting Agents for Norbury, Streatham, Thornton Heath, West Croydon, East Croydon, South Croydon, Tooting, West Norwood, Battersea, Brixton
 				"""
 
 			# The website author"s name

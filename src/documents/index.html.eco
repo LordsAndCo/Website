@@ -1,11 +1,12 @@
 ---
 layout: 'page'
-title: "UN Innovation and Development"
+title: "The property group"
 ---
 <%- @partial("slider") %>
-<div class="row">
-  <div class="columns">
-    <a height="300px" class="twitter-timeline" href="https://twitter.com/UNIDINFO" data-widget-id="492697812027469824">Tweets by @UNIDINFO</a>
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-  </div>
+<div class="columns large-2">
+  <div id="searchWrapper">
+		<iframe frameborder="0" src="http://www.movepig.com/searchwidget.aspx?id=7702268" scrolling="no" allowtransparency="true" name="searchFrame" id="searchFrame"></iframe>
+	</div>
+</div>
+<div class="columns large-10">
 </div>

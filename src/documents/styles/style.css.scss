@@ -11,6 +11,9 @@
 
 ////////////
 // LAYOUT
+.row {
+    max-width: 90rem;
+}
 #layout{
 	//makes sure body-height: 100% doesn't show vertical scrollbar when not needed
 	overflow: auto; 
@@ -19,18 +22,21 @@
 ////////////
 //COMPONENTS
 
-$backCol: #13A3C7;
+$backCol: #464749; //lightGrey
 $backColDarkGrad: darken($backCol, 15%);
 $colDarken: darken($backCol, 20%);
-$unColour: #5B92E5;
+$unColour: #1a124b; //darkBlue
 $screen-font-weight: 400;
 
 .container.top-bar {
-	
+	background: $backCol none repeat scroll 0 0 !important;
 	.top-bar-section{
 		font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+		ul li {
+    		background: #fff none repeat scroll 0 0;
+		}
 		li a:not(.button):hover, li.active a:not(.button){ 
-			background: #222;
+			background: $backCol;
 		}
 	}
 	margin-bottom: 0;
@@ -43,7 +49,7 @@ h1,h2,h3,h4,h5,h6{
 header{
 	text-align: right;
 	padding: 1em 0;
-	//background: $backCol;z
+	//background: $backCol;
 	background: $unColour;
 	background-repeat: no-repeat;
 	&.tall{
@@ -85,7 +91,7 @@ header{
 			padding-left: 3em;
 		}
 	}
-	margin-bottom: 2em;
+	margin-bottom: 2.5em;
 }
 
 section{
@@ -154,12 +160,13 @@ article{
 	display:inline-block;
 }
 #footer {
+	height: 6em;
 	padding-top: 1em;
 	color: lighten($backCol, 10%);
 	background: $backColDarkGrad;
 
 	div, li{
-		line-height: 1.5em ;
+		line-height: 1em ;
 	}
 
 	.foot-right{
@@ -189,5 +196,13 @@ article{
 
 
 
-
-
+#searchWrapper {
+    background: #fcda01 none repeat scroll 0 0;
+    margin-bottom: 20px;
+    padding: 5px 5px 0;
+    font-size: 10px;
+}
+#searchFrame {
+    height: 195px;
+    width: 213px;
+}
