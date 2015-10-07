@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Lords &amp; Co.</title>
+	<link href="http://lordsandco.co.uk/atom.xml" rel="self"/>
+	<link href="http://lordsandco.co.uk"/>
+	<updated>2015-10-07T21:09:33.819Z</updated>
+	<id>http://lordsandco.co.uk</id>
+	<author>
+		<name>Ayesha Khine</name>
+		<email>ayesha@khine.net</email>
+	</author>
+
+	
+		<entry>
+			<title>No news is good news!</title>
+			<link href="http://lordsandco.co.uk//posts/news"/>
+			<updated>2015-10-05T09:51:10.000Z</updated>
+			<id>http://lordsandco.co.uk//posts/news</id>
+			<content type="html">&lt;html lang=&quot;en&quot;&gt;
+  &lt;head&gt;
+    &lt;!-- Meta --&gt;
+    &lt;meta charset=&quot;utf-8&quot; /&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+  
+    &lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+       More info: h5bp.com/i/378 --&gt;
+    &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+  
+    &lt;!-- Our site title and description --&gt;
+    &lt;title&gt;No news is good news! | Lords &amp;amp; Co.&lt;/title&gt;
+    &lt;meta name=&quot;description&quot; content=&quot;Lords &amp;amp; Co. - Letting Agents for Norbury, Streatham, Thornton Heath, West Croydon, East Croydon, South Croydon, Tooting, West Norwood, Battersea, Brixton&quot; /&gt;
+    &lt;meta name=&quot;keywords&quot; content=&quot;Letting Agents for Norbury, Streatham, Thornton Heath, West Croydon, East Croydon, South Croydon, Tooting, West Norwood, Battersea, Brixton&quot; /&gt;
+    &lt;meta name=&quot;author&quot; content=&quot;Ayesha Khine&quot; /&gt;
+  
+    &lt;!-- Output DocPad produced meta elements --&gt;
+    &lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.69.2&quot; /&gt;
+  
+    &lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+  
+    &lt;!-- Icons --&gt;
+      &lt;link rel=&quot;shortcut icon&quot; href=&quot;icons/favicon.ico&quot;&gt;
+      &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144-precomposed.png&quot;&gt;
+      &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114-precomposed.png&quot;&gt;
+      &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72-precomposed.png&quot;&gt;
+      &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57-precomposed.png&quot;&gt;
+  
+    &lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+    &lt;!--[if lt IE 9]&gt;
+      &lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+    &lt;![endif]--&gt;
+  
+    &lt;!-- Styles --&gt;
+    &lt;link href='http://fonts.googleapis.com/css?family=Montserrat|Maven+Pro' rel='stylesheet' type='text/css'&gt;
+    &lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/all.css&quot; /&gt;
+  
+  &lt;/head&gt;
+  &lt;body &gt;
+    &lt;div id=&quot;layout&quot;&gt;
+      &lt;div class=&quot;sticky&quot;&gt;
+        &lt;nav class=&quot;container top-bar&quot; data-topbar&gt;
+            &lt;ul class=&quot;title-area&quot;&gt;
+              &lt;li class=&quot;name&quot;&gt;
+                &lt;a href=&quot;/&quot;&gt;
+                  &lt;img src=&quot;/images/logo.png&quot;/&gt;
+                &lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li class=&quot;toggle-topbar menu-icon&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;span&gt;Menu&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;section class=&quot;top-bar-section&quot;&gt;
+              &lt;ul class=&quot;right&quot;&gt;
+                &lt;li class=&quot;has-dropdown&quot;&gt;
+                  &lt;a href=&quot;#&quot;&gt;About&lt;/a&gt;
+                  &lt;ul class=&quot;dropdown&quot;&gt;
+                    
+                    &lt;li class=&quot;has-dropdown&quot;&gt;
+                      &lt;a href=&quot;#&quot;&gt;Lords &amp;amp Co group&lt;/a&gt;
+                      &lt;ul class=&quot;dropdown&quot; style=&quot;right:0;left:100%&quot;&gt;
+                        
+                          &lt;li&gt;&lt;a href=&quot;/pages/lords_co&quot;&gt;Lords &amp;amp; Co&lt;/a&gt;&lt;/li&gt;
+                        
+                          &lt;li&gt;&lt;a href=&quot;/about/about_ark&quot;&gt;Ark residential&lt;/a&gt;&lt;/li&gt;
+                        
+                          &lt;li&gt;&lt;a href=&quot;/about/london_property_buyers&quot;&gt;London Property Buyers&lt;/a&gt;&lt;/li&gt;
+                        
+                      &lt;/ul&gt;
+                    &lt;/li&gt;
+                  &lt;/ul&gt;
+                &lt;/li&gt;
+                
+                  &lt;li class=&quot;divider hide-for-small&quot;&gt;&lt;/li&gt;
+                  &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/blog&quot; class=&quot;&quot;  &gt;
+                    &lt;a href=&quot;/pages/blog&quot; property=&quot;dc:title&quot;&gt;News&lt;/a&gt;
+                  &lt;/li&gt;
+                
+                  &lt;li class=&quot;divider hide-for-small&quot;&gt;&lt;/li&gt;
+                  &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/events&quot; class=&quot;&quot;  &gt;
+                    &lt;a href=&quot;/pages/events&quot; property=&quot;dc:title&quot;&gt;Events &amp;amp; Programmes&lt;/a&gt;
+                  &lt;/li&gt;
+                
+              &lt;/ul&gt;
+            &lt;/section&gt;
+        &lt;/nav&gt;
+      &lt;/div&gt;
+      &lt;div role=&quot;main&quot;&gt;
+        &lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+
+	&lt;div class=&quot;row&quot;&gt;
+		&lt;div class=&quot;columns post-content&quot;&gt;
+			&lt;h1&gt;No news is good news!&lt;/h1&gt;
+			
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+	
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+	&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
+&lt;script&gt;(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = &quot;//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=266367676718271&quot;;
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));&lt;/script&gt;
+&lt;div class=&quot;fb-comments&quot; data-href=&quot;http://lordsandco.co.uk/posts/news&quot; data-width=&quot;470&quot; data-num-posts=&quot;10&quot; data-colorscheme=&quot;light&quot; data-order-by=&quot;social&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;footer id=&quot;footer&quot;&gt;
+      &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;columns large-6 small-12&quot;&gt;
+          &amp;copy; Lords &amp;amp; Co. 2015
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/footer&gt;
+    &lt;script defer=&quot;defer&quot;  src=&quot;/scripts/all.js&quot;&gt;&lt;/script&gt;
+    &lt;!-- AddThis Button BEGIN --&gt;&lt;!-- AddThis Button BEGIN --&gt;&lt;div class=&quot;addthis_toolbox addthis_floating_style addthis_16x16_style&quot; style=&quot;right:10px;bottom:0px;background:transparent&quot;&gt;&lt;a class=&quot;addthis_button_preferred_1&quot;&gt;&lt;/a&gt;&lt;a class=&quot;addthis_button_preferred_2&quot;&gt;&lt;/a&gt;&lt;a class=&quot;addthis_button_preferred_3&quot;&gt;&lt;/a&gt;&lt;a class=&quot;addthis_button_preferred_4&quot;&gt;&lt;/a&gt;&lt;a class=&quot;addthis_button_compact&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;script type=&quot;text/javascript&quot; src=&quot;//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-513e32f975a0171d&quot;&gt;&lt;/script&gt;&lt;!-- AddThis Button END --&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+</feed>
